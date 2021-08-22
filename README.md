@@ -1,6 +1,6 @@
 Original release date : 2/07/20
 
-These codes are applying the algorithms in 'Phase Retrieval with Denoising Prior'.
+These codes are applying the algorithms in 'Data-adaptive Regularization for Fourier Phase Retrieval in Dimension Extended Space'.
 
 Primary Contents
 ---------------------------------------------------------------------------
